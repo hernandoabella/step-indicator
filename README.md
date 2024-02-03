@@ -1,1 +1,1 @@
-# indicador-de-pasos
+# step-indicator
